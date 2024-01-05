@@ -1,6 +1,6 @@
-# Basic REST API using Typescript and MongoDB
+# Ricky ABC REST API 
 
-This is a basic REST API built using Node.js, TypeScript, and MongoDB. The API includes endpoints for getting all customers, getting a single customer, and creating a new customer.
+This is a basic REST API built using Node.js, TypeScript, and MongoDB. The API includes endpoints for saving quizzes, and getting user information.
 
 ## Purpose
 
